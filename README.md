@@ -44,24 +44,24 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 <div align="center">
 
 <a href="https://github.com/valentinbersi/DuckGame-Recreation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=valentinbersi&repo=DuckGame-Recreation&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=F85D7F" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=valentinbersi&repo=DuckGame-Recreation&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=F85D7F&cache_seconds=1" />
 </a>
 <a href="https://github.com/Vityyy/El-Zorro-Y-Las-Ocas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vityyy&repo=El-Zorro-Y-Las-Ocas&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vityyy&repo=El-Zorro-Y-Las-Ocas&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&cache_seconds=1" />
 </a>
 
 <a href="https://github.com/Vityyy/FUSE_fileSystem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vityyy&repo=FUSE_fileSystem&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=A5A5A5" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vityyy&repo=FUSE_fileSystem&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=A5A5A5&cache_seconds=1" />
 </a>
 <a href="https://github.com/Vityyy/Robots-in-Java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vityyy&repo=Robots-in-Java&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=ED8B00" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vityyy&repo=Robots-in-Java&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=ED8B00&cache_seconds=1" />
 </a>
 
 <a href="https://github.com/Vityyy/RR_scheduler">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vityyy&repo=RR_scheduler&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=00599C" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vityyy&repo=RR_scheduler&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=00599C&cache_seconds=1" />
 </a>
 <a href="https://github.com/Vityyy/shell">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vityyy&repo=shell&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=555555" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vityyy&repo=shell&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=555555&cache_seconds=1" />
 </a>
 </div>
 
