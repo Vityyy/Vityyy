@@ -8,12 +8,12 @@
 
 ## 👾 About Me
 
-Advanced Software Engineering student at the **University of Buenos Aires** with over **5 years** of academic and personal experience in software development. I'm passionate about backend engineering, algorithms, and building scalable systems that solve real-world problems.
+Advanced Software Engineering student at the **University of Buenos Aires** with over **5 years** of academic and personal experience in software development. Passionate about backend engineering, algorithms, and building scalable systems that solve real-world problems.
 
 - 💻 **Full-Stack Developer** with backend focus for **robust and scalable solutions.**
 - 🎯 Strong foundation in **algorithms, data structures, databases and programming paradigms.**
-- 🧠 Experienced in building **backend APIs, full-stack web apps, and game engines**
-- 🌱 Currently diving deep into **Machine Learning** and **Data Engineering**, working with data pipelines and analytics.
+- 🧠 Experienced in building **backend APIs, full-stack web apps, and game engines.**
+- 🌱 Currently diving deep into **Machine Learning** and **AI Engineering** (LLM complex systems), working with data pipelines, semantic routing, vector databases (embeddings), agentic workflows, etc.
 
 ## 🛠️ Tech Stack
 
