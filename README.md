@@ -8,12 +8,11 @@
 
 ## About
 
-Software Engineering student at the **University of Buenos Aires** with over **5 years** of academic and personal experience in software development. Passionate about backend engineering, algorithms, and building scalable systems that solve real-world problems.
+Backend-oriented Software Engineer with strong foundations in low-level systems, algorithms and performance-critical applications with over **5 years** of academic and personal experience.
 
-- 💻 **Full-Stack Developer** with backend focus for **robust and scalable solutions.**
-- 🎯 Strong foundation in **algorithms, data structures, databases and programming paradigms.**
-- 🧠 Experienced in building **backend APIs, full-stack web apps, and game engines.**
-- 🌱 Currently diving deep into **Machine Learning** and **AI Engineering** (LLM complex systems), working with data pipelines, semantic routing, vector databases (embeddings), agentic workflows, etc.
+- Currently exploring:
+  - scalable backend architectures
+  - data/ML systems (LLMs, embeddings, pipelines and and **AI Engineering** in general)
 
 ## Tech Stack
 
