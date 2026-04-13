@@ -1,10 +1,8 @@
 # 🏮 Hi there, I'm Camilo Sassone
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=7AA2F7&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Developer;Backend+Engineer;Complex+algorithms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Developer;Backend+Engineer;Complex+algorithms" alt="Typing SVG" />
 </div>
-
-<hr style="border: 1px solid #1f2335; width: 60%;">
 
 ## 👾 About Me
 
@@ -46,8 +44,6 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 <a href="https://github.com/valentinbersi/DuckGame-Recreation">
   <img width="60%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=valentinbersi&repo=DuckGame-Recreation&theme=tokyonight&hide_border=true" />
 </a>
-
-<br><br>
 
 <table>
 <tr>
