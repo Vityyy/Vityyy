@@ -15,8 +15,6 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 - 🧠 Experienced in building **backend APIs, full-stack web apps, and game engines.**
 - 🌱 Currently diving deep into **Machine Learning** and **AI Engineering** (LLM complex systems), working with data pipelines, semantic routing, vector databases (embeddings), agentic workflows, etc.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -40,8 +38,6 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Featured Projects
 
@@ -89,8 +85,6 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 📊 Stats
 
 <div align="center">
@@ -103,8 +97,6 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vityyy&theme=gruvbox&hide_border=true"/>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 Let's create.
 
