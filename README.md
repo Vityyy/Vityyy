@@ -44,13 +44,13 @@ Currently exploring:
 <table align="center" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td style="padding: 0;">
-<a href="https://github.com/Vityyy/Robots-in-Java">
-<img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=Robots-in-Java&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Vityyy/DuckGame-Recreation">
+<img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=DuckGame-Recreation&theme=tokyonight&hide_border=true"/>
 </a>
 </td>
 <td style="padding: 0;">
-<a href="https://github.com/Vityyy/DuckGame-Recreation">
-<img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=DuckGame-Recreation&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Vityyy/Robots-in-Java">
+<img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=Robots-in-Java&theme=tokyonight&hide_border=true"/>
 </a>
 </td>
 </tr>
