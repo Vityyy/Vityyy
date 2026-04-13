@@ -45,12 +45,12 @@ Currently exploring:
 <tr>
 <td style="padding: 0;">
 <a href="https://github.com/Vityyy/FUSE_fileSystem">
-<img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=FUSE_fileSystem&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=FUSE_fileSystem&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </a>
 </td>
 <td style="padding: 0;">
 <a href="https://github.com/Vityyy/shell">
-<img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=shell&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=shell&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </a>
 </td>
 </tr>
@@ -58,12 +58,12 @@ Currently exploring:
 <tr>
 <td style="padding: 0;">
 <a href="https://github.com/Vityyy/RR_scheduler">
-<img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=RR_scheduler&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=RR_scheduler&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </a>
 </td>
 <td style="padding: 0;">
 <a href="https://github.com/Vityyy/El-Zorro-Y-Las-Ocas">
-<img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=El-Zorro-Y-Las-Ocas&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=El-Zorro-Y-Las-Ocas&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </a>
 </td>
 </tr>
@@ -71,12 +71,12 @@ Currently exploring:
 <tr>
 <td style="padding: 0;">
 <a href="https://github.com/Vityyy/Robots-in-Java">
-<img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=Robots-in-Java&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=Robots-in-Java&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </a>
 </td>
 <td style="padding: 0;">
 <a href="https://github.com/valentinbersi/DuckGame-Recreation">
-<img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=valentinbersi&repo=DuckGame-Recreation&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=valentinbersi&repo=DuckGame-Recreation&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </a>
 </td>
 </tr>
