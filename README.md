@@ -48,7 +48,7 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 <div align="center">
 
 <a href="https://github.com/valentinbersi/DuckGame-Recreation">
-  <img width="60%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=valentinbersi&repo=DuckGame-Recreation&theme=dracula&hide_border=true" />
+  <img width="60%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=valentinbersi&repo=DuckGame-Recreation&theme=tokyonight&hide_border=true" />
 </a>
 
 <br><br>
@@ -57,12 +57,12 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 <tr>
 <td>
 <a href="https://github.com/Vityyy/FUSE_fileSystem">
-  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=FUSE_fileSystem&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=FUSE_fileSystem&theme=tokyonight&hide_border=true" />
 </a>
 </td>
 <td>
 <a href="https://github.com/Vityyy/shell">
-  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=shell&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=shell&theme=tokyonight&hide_border=true" />
 </a>
 </td>
 </tr>
