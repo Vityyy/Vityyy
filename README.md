@@ -43,39 +43,45 @@ Software Engineering student at the **University of Buenos Aires** with over **5
 
 <div align="center">
 
-<a href="https://github.com/valentinbersi/DuckGame-Recreation">
-  <img width="60%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=valentinbersi&repo=DuckGame-Recreation&theme=tokyonight&hide_border=true" />
-</a>
-
 <table>
+<tr>
+<td colspan="2" align="center">
+<a href="https://github.com/valentinbersi/DuckGame-Recreation">
+  <img width="75%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=valentinbersi&repo=DuckGame-Recreation&theme=tokyonight&hide_border=true" />
+</a>
+</td>
+</tr>
+
 <tr>
 <td>
 <a href="https://github.com/Vityyy/FUSE_fileSystem">
-  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=FUSE_fileSystem&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=FUSE_fileSystem&theme=tokyonight&hide_border=true" />
 </a>
 </td>
 <td>
 <a href="https://github.com/Vityyy/shell">
-  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=shell&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=shell&theme=tokyonight&hide_border=true" />
 </a>
 </td>
 </tr>
+
 <tr>
 <td>
 <a href="https://github.com/Vityyy/El-Zorro-Y-Las-Ocas">
-  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=El-Zorro-Y-Las-Ocas&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=El-Zorro-Y-Las-Ocas&theme=tokyonight&hide_border=true" />
 </a>
 </td>
 <td>
 <a href="https://github.com/Vityyy/Robots-in-Java">
-  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=Robots-in-Java&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=Robots-in-Java&theme=tokyonight&hide_border=true" />
 </a>
 </td>
 </tr>
+
 <tr>
 <td colspan="2" align="center">
 <a href="https://github.com/Vityyy/RR_scheduler">
-  <img width="50%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=RR_scheduler&theme=tokyonight&hide_border=true" />
+  <img width="75%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=RR_scheduler&theme=tokyonight&hide_border=true" />
 </a>
 </td>
 </tr>
