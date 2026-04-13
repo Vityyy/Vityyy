@@ -95,12 +95,12 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-two-livid-77.vercel.app/api?username=Vityyy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats-two-livid-77.vercel.app/api/top-langs/?username=Vityyy&layout=compact&theme=dracula&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-two-livid-77.vercel.app/api?username=Vityyy&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-two-livid-77.vercel.app/api/top-langs/?username=Vityyy&layout=compact&theme=gruvbox&hide_border=true"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vityyy&theme=dracula&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vityyy&theme=gruvbox&hide_border=true"/>
 
 </div>
 
