@@ -89,8 +89,8 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-two-livid-77.vercel.app/api?username=Vityyy&show_icons=true&theme=tokyonight-duo&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats-two-livid-77.vercel.app/api/top-langs/?username=Vityyy&layout=compact&theme=tokyonight-duo&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-two-livid-77.vercel.app/api?username=Vityyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-two-livid-77.vercel.app/api/top-langs/?username=Vityyy&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
