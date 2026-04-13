@@ -18,7 +18,7 @@ Software Engineering student at the **University of Buenos Aires** with over **5
 ## Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-24283B?style=for-the-badge&logo=python&logoColor=89B4FA)
+![Python](https://img.shields.io/badge/Python-24283B?style=for-the-badge&logo=python&logoColor=1A1B26)
 ![C](https://img.shields.io/badge/C-24283B?style=for-the-badge&logo=c&logoColor=89B4FA)
 ![C++](https://img.shields.io/badge/C++-24283B?style=for-the-badge&logo=c%2B%2B&logoColor=89B4FA)
 ![Java](https://img.shields.io/badge/Java-24283B?style=for-the-badge&logo=openjdk&logoColor=89B4FA)
