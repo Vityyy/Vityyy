@@ -75,8 +75,8 @@ Currently exploring:
 </a>
 </td>
 <td style="padding: 0;">
-<a href="https://github.com/valentinbersi/DuckGame-Recreation">
-<img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=valentinbersi&repo=DuckGame-Recreation&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Vityyy/DuckGame-Recreation">
+<img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=DuckGame-Recreation&theme=tokyonight&hide_border=true"/>
 </a>
 </td>
 </tr>
