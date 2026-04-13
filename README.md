@@ -10,7 +10,7 @@
 
 Backend-oriented Software Engineer with strong foundations in low-level systems, algorithms and performance-critical applications with over **5 years** of academic and personal experience.
 
-- Currently exploring:
+Currently exploring:
   - scalable backend architectures
   - data/ML systems (LLMs, embeddings, pipelines and and **AI Engineering** in general)
 
