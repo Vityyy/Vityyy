@@ -43,7 +43,7 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 
 <!-- Proyecto principal (más grande) -->
 <a href="https://github.com/valentinbersi/DuckGame-Recreation">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=valentinbersi&repo=DuckGame-Recreation&theme=github_dark&hide_border=true" />
+  <img width="80%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=valentinbersi&repo=DuckGame-Recreation&theme=github_dark&hide_border=true" />
 </a>
 
 <br><br>
@@ -53,13 +53,13 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 <tr>
 <td>
 <a href="https://github.com/Vityyy/FUSE_fileSystem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vityyy&repo=FUSE_fileSystem&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=FUSE_fileSystem&theme=github_dark&hide_border=true" />
 </a>
 </td>
 
 <td>
 <a href="https://github.com/Vityyy/shell">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vityyy&repo=shell&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=shell&theme=github_dark&hide_border=true" />
 </a>
 </td>
 </tr>
@@ -67,13 +67,13 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 <tr>
 <td>
 <a href="https://github.com/Vityyy/El-Zorro-Y-Las-Ocas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vityyy&repo=El-Zorro-Y-Las-Ocas&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=El-Zorro-Y-Las-Ocas&theme=github_dark&hide_border=true" />
 </a>
 </td>
 
 <td>
 <a href="https://github.com/Vityyy/Robots-in-Java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vityyy&repo=Robots-in-Java&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=Robots-in-Java&theme=github_dark&hide_border=true" />
 </a>
 </td>
 </tr>
@@ -81,7 +81,7 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 <tr>
 <td colspan="2" align="center">
 <a href="https://github.com/Vityyy/RR_scheduler">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vityyy&repo=RR_scheduler&theme=github_dark&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=RR_scheduler&theme=github_dark&hide_border=true" />
 </a>
 </td>
 </tr>
