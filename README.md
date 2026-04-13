@@ -1,4 +1,4 @@
-# Hi, I'm Camilo Sassone
+# Hi, I'm Camilo 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=C0CAF5&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Developer;Backend+Engineer;Complex+algorithms" alt="Typing SVG" />
@@ -7,12 +7,11 @@
 <hr style="border: 1px solid #1f2335; width: 40%;">
 
 ## About
-
-Backend-oriented Software Engineer with strong foundations in low-level systems, algorithms and performance-critical applications with over **5 years** of academic and personal experience.
+I build low-level systems, backend architectures and performance-critical applications, with over **5 years** of academic and personal experience.
 
 Currently exploring:
-  - scalable backend architectures
-  - data/ML systems (LLMs, embeddings, pipelines and and **AI Engineering** in general)
+  - 🏮 scalable backend architectures
+  - 🌱 data/ML systems (LLMs, embeddings, pipelines and and **AI Engineering** in general)
 
 ## Tech Stack
 
