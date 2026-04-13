@@ -1,10 +1,10 @@
 # 🏮 Hi there, I'm Camilo Sassone
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=C0CAF5&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Developer;Backend+Engineer;Complex+algorithms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=7AA2F7&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Developer;Backend+Engineer;Complex+algorithms" alt="Typing SVG" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr style="border: 1px solid #1f2335; width: 60%;">
 
 ## 👾 About Me
 
