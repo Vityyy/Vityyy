@@ -1,19 +1,21 @@
-# 🏮 Hi there, I'm Camilo Sassone
+# Hi, I'm Camilo Sassone
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Developer;Backend+Engineer;Complex+algorithms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=C0CAF5&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Developer;Backend+Engineer;Complex+algorithms" alt="Typing SVG" />
 </div>
 
-## 👾 About Me
+<hr style="border: 1px solid #1f2335; width: 40%;">
 
-Advanced Software Engineering student at the **University of Buenos Aires** with over **5 years** of academic and personal experience in software development. Passionate about backend engineering, algorithms, and building scalable systems that solve real-world problems.
+## About
+
+Software Engineering student at the **University of Buenos Aires** with over **5 years** of academic and personal experience in software development. Passionate about backend engineering, algorithms, and building scalable systems that solve real-world problems.
 
 - 💻 **Full-Stack Developer** with backend focus for **robust and scalable solutions.**
 - 🎯 Strong foundation in **algorithms, data structures, databases and programming paradigms.**
 - 🧠 Experienced in building **backend APIs, full-stack web apps, and game engines.**
 - 🌱 Currently diving deep into **Machine Learning** and **AI Engineering** (LLM complex systems), working with data pipelines, semantic routing, vector databases (embeddings), agentic workflows, etc.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -37,7 +39,7 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -81,7 +83,7 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 
 </div>
 
-## 📊 Stats
+## Stats
 
 <div align="center">
 
@@ -90,7 +92,7 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 
 </div>
 
-## 🌐 Let's create.
+## 🌐 Let's create
 
 <div align="center">
   
