@@ -48,7 +48,7 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 <div align="center">
 
 <a href="https://github.com/valentinbersi/DuckGame-Recreation">
-  <img width="60%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=valentinbersi&repo=DuckGame-Recreation&theme=midnight-purple&hide_border=true" />
+  <img width="60%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=valentinbersi&repo=DuckGame-Recreation&theme=dracula&hide_border=true" />
 </a>
 
 <br><br>
@@ -57,31 +57,31 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 <tr>
 <td>
 <a href="https://github.com/Vityyy/FUSE_fileSystem">
-  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=FUSE_fileSystem&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=FUSE_fileSystem&theme=dracula&hide_border=true" />
 </a>
 </td>
 <td>
 <a href="https://github.com/Vityyy/shell">
-  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=shell&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=shell&theme=dracula&hide_border=true" />
 </a>
 </td>
 </tr>
 <tr>
 <td>
 <a href="https://github.com/Vityyy/El-Zorro-Y-Las-Ocas">
-  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=El-Zorro-Y-Las-Ocas&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=El-Zorro-Y-Las-Ocas&theme=dracula&hide_border=true" />
 </a>
 </td>
 <td>
 <a href="https://github.com/Vityyy/Robots-in-Java">
-  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=Robots-in-Java&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=Robots-in-Java&theme=dracula&hide_border=true" />
 </a>
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 <a href="https://github.com/Vityyy/RR_scheduler">
-  <img width="50%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=RR_scheduler&theme=midnight-purple&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=RR_scheduler&theme=dracula&hide_border=true" />
 </a>
 </td>
 </tr>
@@ -95,12 +95,12 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-two-livid-77.vercel.app/api?username=Vityyy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats-two-livid-77.vercel.app/api/top-langs/?username=Vityyy&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-two-livid-77.vercel.app/api?username=Vityyy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-two-livid-77.vercel.app/api/top-langs/?username=Vityyy&layout=compact&theme=dracula&hide_border=true"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vityyy&theme=midnight-purple&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vityyy&theme=dracula&hide_border=true"/>
 
 </div>
 
