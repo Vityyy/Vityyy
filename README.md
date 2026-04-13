@@ -21,13 +21,13 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-two-livid-77.vercel.app/api?username=Vityyy&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats-two-livid-77.vercel.app/api/top-langs/?username=Vityyy&layout=compact&theme=gruvbox&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-two-livid-77.vercel.app/api?username=Vityyy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-two-livid-77.vercel.app/api/top-langs/?username=Vityyy&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vityyy&theme=gruvbox&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vityyy&theme=radical&hide_border=true"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -63,7 +63,7 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 <div align="center">
 
 <a href="https://github.com/valentinbersi/DuckGame-Recreation">
-  <img width="80%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=valentinbersi&repo=DuckGame-Recreation&theme=gruvbox&hide_border=true" />
+  <img width="80%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=valentinbersi&repo=DuckGame-Recreation&theme=radical&hide_border=true" />
 </a>
 
 <br><br>
@@ -72,31 +72,31 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 <tr>
 <td>
 <a href="https://github.com/Vityyy/FUSE_fileSystem">
-  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=FUSE_fileSystem&theme=gruvbox&hide_border=true" />
+  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=FUSE_fileSystem&theme=radical&hide_border=true" />
 </a>
 </td>
 <td>
 <a href="https://github.com/Vityyy/shell">
-  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=shell&theme=gruvbox&hide_border=true" />
+  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=shell&theme=radical&hide_border=true" />
 </a>
 </td>
 </tr>
 <tr>
 <td>
 <a href="https://github.com/Vityyy/El-Zorro-Y-Las-Ocas">
-  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=El-Zorro-Y-Las-Ocas&theme=gruvbox&hide_border=true" />
+  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=El-Zorro-Y-Las-Ocas&theme=radical&hide_border=true" />
 </a>
 </td>
 <td>
 <a href="https://github.com/Vityyy/Robots-in-Java">
-  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=Robots-in-Java&theme=gruvbox&hide_border=true" />
+  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=Robots-in-Java&theme=radical&hide_border=true" />
 </a>
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 <a href="https://github.com/Vityyy/RR_scheduler">
-  <img width="50%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=RR_scheduler&theme=gruvbox&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=RR_scheduler&theme=radical&hide_border=true" />
 </a>
 </td>
 </tr>
