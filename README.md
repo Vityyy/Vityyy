@@ -19,25 +19,25 @@ Software Engineering student at the **University of Buenos Aires** with over **5
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-24283B?style=for-the-badge&logo=python&logoColor=89B4FA)
-![C](https://img.shields.io/badge/C-1A1B26?style=flat-square&logo=c&logoColor=7AA2F7)
-![C++](https://img.shields.io/badge/C++-1A1B26?style=flat-square&logo=c%2B%2B&logoColor=7AA2F7)
-![Java](https://img.shields.io/badge/Java-1A1B26?style=flat-square&logo=openjdk&logoColor=7AA2F7)
-![JavaScript](https://img.shields.io/badge/JavaScript-1A1B26?style=flat-square&logo=javascript&logoColor=7AA2F7)
-![TypeScript](https://img.shields.io/badge/TypeScript-1A1B26?style=flat-square&logo=typescript&logoColor=7AA2F7)
-![Smalltalk](https://img.shields.io/badge/Smalltalk-1A1B26?style=flat-square&logo=pharo&logoColor=7AA2F7)
-![Clojure](https://img.shields.io/badge/Clojure-1A1B26?style=flat-square&logo=clojure&logoColor=7AA2F7)
-![Assembly](https://img.shields.io/badge/Assembly-1A1B26?style=flat-square&logo=assemblyscript&logoColor=7AA2F7)
+![C](https://img.shields.io/badge/C-24283B?style=for-the-badge&logo=c&logoColor=89B4FA)
+![C++](https://img.shields.io/badge/C++-24283B?style=for-the-badge&logo=c%2B%2B&logoColor=89B4FA)
+![Java](https://img.shields.io/badge/Java-24283B?style=for-the-badge&logo=openjdk&logoColor=89B4FA)
+![JavaScript](https://img.shields.io/badge/JavaScript-24283B?style=for-the-badge&logo=javascript&logoColor=89B4FA)
+![TypeScript](https://img.shields.io/badge/TypeScript-24283B?style=for-the-badge&logo=typescript&logoColor=89B4FA)
+![Smalltalk](https://img.shields.io/badge/Smalltalk-24283B?style=for-the-badge&logo=pharo&logoColor=89B4FA)
+![Clojure](https://img.shields.io/badge/Clojure-24283B?style=for-the-badge&logo=clojure&logoColor=89B4FA)
+![Assembly](https://img.shields.io/badge/Assembly-24283B?style=for-the-badge&logo=assemblyscript&logoColor=89B4FA)
 
 ### Tools & Frameworks
-![React](https://img.shields.io/badge/React-1A1B26?style=flat-square&logo=react&logoColor=7AA2F7)
-![FastAPI](https://img.shields.io/badge/FastAPI-1A1B26?style=flat-square&logo=fastapi&logoColor=7AA2F7)
-![Docker](https://img.shields.io/badge/Docker-1A1B26?style=flat-square&logo=docker&logoColor=7AA2F7)
-![Git](https://img.shields.io/badge/Git-1A1B26?style=flat-square&logo=git&logoColor=7AA2F7)
-![Linux](https://img.shields.io/badge/Linux-1A1B26?style=flat-square&logo=linux&logoColor=7AA2F7)
-![Pandas](https://img.shields.io/badge/Pandas-1A1B26?style=flat-square&logo=pandas&logoColor=7AA2F7)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1B26?style=flat-square&logo=postgresql&logoColor=7AA2F7)
-![MySQL](https://img.shields.io/badge/MySQL-1A1B26?style=flat-square&logo=mysql&logoColor=7AA2F7)
-![MongoDB](https://img.shields.io/badge/MongoDB-1A1B26?style=flat-square&logo=mongodb&logoColor=7AA2F7)
+![React](https://img.shields.io/badge/React-24283B?style=for-the-badge&logo=react&logoColor=89B4FA)
+![FastAPI](https://img.shields.io/badge/FastAPI-24283B?style=for-the-badge&logo=fastapi&logoColor=89B4FA)
+![Docker](https://img.shields.io/badge/Docker-24283B?style=for-the-badge&logo=docker&logoColor=89B4FA)
+![Git](https://img.shields.io/badge/Git-24283B?style=for-the-badge&logo=git&logoColor=89B4FA)
+![Linux](https://img.shields.io/badge/Linux-24283B?style=for-the-badge&logo=linux&logoColor=89B4FA)
+![Pandas](https://img.shields.io/badge/Pandas-24283B?style=for-the-badge&logo=pandas&logoColor=89B4FA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24283B?style=for-the-badge&logo=postgresql&logoColor=89B4FA)
+![MySQL](https://img.shields.io/badge/MySQL-24283B?style=for-the-badge&logo=mysql&logoColor=89B4FA)
+![MongoDB](https://img.shields.io/badge/MongoDB-24283B?style=for-the-badge&logo=mongodb&logoColor=89B4FA)
 
 ## Featured Projects
 
