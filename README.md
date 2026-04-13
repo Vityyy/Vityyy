@@ -1,7 +1,7 @@
-# 🏮 Hi there, I'm Camilo Sassone Irrazabal
+# 🏮 Hi there, I'm Camilo Sassone
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=FE428E&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Developer;Backend+Engineer;Complex+algorithms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=D79921&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Developer;Backend+Engineer;Complex+algorithms" alt="Typing SVG" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -14,6 +14,8 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 - 🎯 Strong foundation in **algorithms, data structures, databases and programming paradigms.**
 - 🧠 Experienced in building **backend APIs, full-stack web apps, and game engines.**
 - 🌱 Currently diving deep into **Machine Learning** and **AI Engineering** (LLM complex systems), working with data pipelines, semantic routing, vector databases (embeddings), agentic workflows, etc.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tech Stack
 
@@ -41,30 +43,49 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/valentinbersi/DuckGame-Recreation">
-  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=valentinbersi&repo=DuckGame-Recreation&theme=radical&hide_border=true&cache_seconds=86400" />
-</a>
-<a href="https://github.com/Vityyy/El-Zorro-Y-Las-Ocas">
-  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=El-Zorro-Y-Las-Ocas&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img width="60%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=valentinbersi&repo=DuckGame-Recreation&theme=gruvbox&hide_border=true" />
 </a>
 
+<br><br>
+
+<table>
+<tr>
+<td>
 <a href="https://github.com/Vityyy/FUSE_fileSystem">
-  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=FUSE_fileSystem&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=FUSE_fileSystem&theme=gruvbox&hide_border=true" />
 </a>
-<a href="https://github.com/Vityyy/Robots-in-Java">
-  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=Robots-in-Java&theme=radical&hide_border=true&cache_seconds=86400" />
-</a>
-
-<a href="https://github.com/Vityyy/RR_scheduler">
-  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=RR_scheduler&theme=radical&hide_border=true&cache_seconds=86400" />
-</a>
+</td>
+<td>
 <a href="https://github.com/Vityyy/shell">
-  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=shell&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=shell&theme=gruvbox&hide_border=true" />
 </a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/Vityyy/El-Zorro-Y-Las-Ocas">
+  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=El-Zorro-Y-Las-Ocas&theme=gruvbox&hide_border=true" />
+</a>
+</td>
+<td>
+<a href="https://github.com/Vityyy/Robots-in-Java">
+  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=Robots-in-Java&theme=gruvbox&hide_border=true" />
+</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<a href="https://github.com/Vityyy/RR_scheduler">
+  <img width="50%" src="https://github-readme-stats-two-livid-77.vercel.app/api/pin/?username=Vityyy&repo=RR_scheduler&theme=gruvbox&hide_border=true" />
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -73,7 +94,14 @@ Advanced Software Engineering student at the **University of Buenos Aires** with
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-two-livid-77.vercel.app/api/top-langs/?username=Vityyy&layout=compact&theme=radical&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats-two-livid-77.vercel.app/api?username=Vityyy&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-two-livid-77.vercel.app/api/top-langs/?username=Vityyy&layout=compact&theme=gruvbox&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vityyy&theme=gruvbox&hide_border=true"/>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
