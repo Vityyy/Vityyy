@@ -1,4 +1,4 @@
-# Hi, I'm Camilo 👋
+# 🏮 Hi, I'm Camilo
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=C0CAF5&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Developer;Backend+Engineer;Complex+algorithms" alt="Typing SVG" />
@@ -7,7 +7,9 @@
 <hr style="border: 1px solid #1f2335; width: 40%;">
 
 ## About
-I build low-level systems, backend architectures and performance-critical applications, with over **5 years** of academic and personal experience.
+Advanced Software Engineering student at the University of Buenos Aires with over 5 years of academic and personal experience in software development. Passionate about backend engineering, algorithms, and building scalable systems that solve real-world problems.
+
+- 🎯 **Full-Stack Developer** with backend focus.
 
 Currently exploring:
   - 🏮 scalable backend architectures
