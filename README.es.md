@@ -26,7 +26,7 @@ proyectos personales y eligiendo pequeñas piezas de infraestructura que me ayud
 - desarrollando **Marea**, un SaaS en producción para gestión de membresías y control de acceso físico.
 - desarrollando **Mika-Engram**, un backend privado de IA con memoria persistente, RAG, workers en background y fine-tuning de LLMs.
 
-Prefiero los sistemas predecibles antes que los ingeniosos; producción ya es lo suficientemente 'emocionante'.
+Prefiero los sistemas predecibles antes que los ingeniosos; producción ya es lo suficientemente emocionante.
 
 ## Stack de tecnologías
 
