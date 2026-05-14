@@ -1,3 +1,7 @@
+<p align="right">
+  <strong>🇺🇸 English</strong> | <a href="README.es.md">🇦🇷 Español</a>
+</p>
+
 # 👾 Hi, I'm Camilo Sassone
 
 <div align="center">
@@ -19,10 +23,10 @@ Final-year Software Engineering student at the University of Buenos Aires. I spe
 side projects, and small pieces of infrastructure that teach me something useful.
 
 **Currently**:
-- building **Marea**, a production SaaS for membership management and physical access control
+- building **Marea**, a production SaaS for membership management and physical access control.
 - developing **Mika-Engram**, a private AI backend with persistent memory, RAG, background workers and LLM fine-tuning.
 
-I prefer predictable systems over clever ones. Production is exciting enough.
+I prefer predictable systems over clever ones; production is exciting enough.
 
 ## Tech Stack
 
